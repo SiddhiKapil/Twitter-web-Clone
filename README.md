@@ -4,7 +4,7 @@
   <br />
   <br />
   
-  <img src=""./twdemo.png"" />
+  <img src=""/twdemo.png"" />
 
   <h2 align="center">Twitter (Web) Clone</h2>
 
