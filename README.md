@@ -4,7 +4,8 @@
   <br />
   <br />
   
-  <img src=""twdemo.png"" />
+  ![twdemo](https://github.com/SiddhiKapil/Twitter-web-Clone/assets/129001399/e6e1862b-fa5a-4148-8d26-ec2dfbba83cd)
+
 
   <h2 align="center">Twitter (Web) Clone</h2>
 
